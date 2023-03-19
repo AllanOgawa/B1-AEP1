@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "allan",
+    "email": "allan@gmail.com",
+    "ra": "21105670-2",
+    "idade": 19
+  },
+  {
+    "nome": "Joao Pedro",
+    "email": "joaoPedro@gmail.com",
+    "ra": "19152680-2",
+    "idade": 21
+  },
+  {
+    "nome": "Renan",
+    "email": "renan@gmail.com",
+    "ra": "20107680-2",
+    "idade": 19
+  },
+  {
+    "nome": "Tiago",
+    "email": "tiago@gmail.com",
+    "ra": "22022680-2",
+    "idade": 19
+  }
+]
